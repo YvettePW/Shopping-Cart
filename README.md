@@ -1,7 +1,7 @@
 # Shopping-Cart
 ## Shopping Cart Project
 <img src="shoppingcart.png" width='300'/>
-This shopping cart shows a list of items that can be put into a cart. The items can be re-stocked.<br></br>
+This shopping cart shows a list of items that can be put into a cart one by one. As items are put into the cart, the product list stock numbers are reduced. The items can be restocked by pressing the Restock Products button, whereupon the product list is replenished.<br></br>
 To run this on your machine, download the cart.jsx and index.html files (The fruit files are not needed unless you'd like to change the picsum code to the photos const variable). Run a local server and load the .html file onto your browser.<br></br>
 Additional functionality that would be helpful to a user for future iterations would be to include the ability to check out and purchase the items.<br></br>
 MIT License<br></br>
